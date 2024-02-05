@@ -2,9 +2,9 @@
 
 ## Description
 
-Visualify.CLI is a command line interface for the VIsualify library. It allows
-you to convert a data file into a visual representation of the data. It also
-allows you to generate templates to use with the Visualify library.
+The Visualify.CLI command line interface organizes spatial data using R-tree, 
+for efficient data searching and loading. 
+By this means, data portals created by Visualifyjs are able to handle large-scale databases.
 
 ## Installation
 
